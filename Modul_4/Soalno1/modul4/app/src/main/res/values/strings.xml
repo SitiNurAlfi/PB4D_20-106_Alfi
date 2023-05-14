@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">WAme</string>
-    <string name="what_is_whatsapp">WhatsApp is free to download messenger app for smartphones. WhatsApp uses the internet to send messages, images, audio or video. The service is very similar to text messaging services, however, because WhatsApp uses the internet to send messages, the cost of using WhatsApp is significantly less than texting. You can also use Whatsapp on your desktop, simply go to the Whatsapp website and download it to Mac or Windows. It is popular with teenagers because of features like group chatting, voice messages and location sharing.</string>
+    <string name="app_name">FragmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">YOUTUBE</string>
+    <string name="Next">NEXT</string>
 </resources>
